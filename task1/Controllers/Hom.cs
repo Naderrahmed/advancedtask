@@ -9,10 +9,22 @@ namespace task1.Controllers
 {
     public class Hom: Controller
     {
-        // GET: /<controller>/
+        
         public string Index ()
         {
             return" this is my task1 " ;
         }
+
+        public string welcome ()
+        {
+            return " welcome to this app ";
+        }
+
+        public string hello()
+        {
+            return " hello world  ";
+        }
+
+
     }
 }

@@ -29,3 +29,4 @@ C:\Users\AllAA OSAMA\Desktop\task1\task1\obj\Debug\netcoreapp2.1\task1.Views.pdb
 C:\Users\AllAA OSAMA\Desktop\task1\task1\obj\Debug\netcoreapp2.1\task1.dll
 C:\Users\AllAA OSAMA\Desktop\task1\task1\obj\Debug\netcoreapp2.1\task1.pdb
 C:\Users\AllAA OSAMA\Desktop\task1\task1\obj\Debug\netcoreapp2.1\task1.csproj.CopyComplete
+C:\Users\AllAA OSAMA\Desktop\task1\task1\obj\Debug\netcoreapp2.1\task1.csprojAssemblyReference.cache
